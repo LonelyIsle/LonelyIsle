@@ -5,8 +5,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LonelyIsle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LonelyIsle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LonelyIsle&radius=16&theme=apprentice&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LonelyIsle&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false&bg_color=262626&title_color=ffffff&point=e9e9a1&color=ffffff&line=bcbcbc&area_color=bcbcbc" height="300" alt="activity-graph graph"  />
 </div>
+
 
 ###
 
