@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img height="200" src="https://media.tenor.com/EpKbFiMnVAMAAAAM/souleater-stein-spin.gif"  />
 </div>
 
