@@ -29,9 +29,3 @@
 </div>
 
 ###
-
-<p align="center">Profile Views</p>
-
-###
-
-###
