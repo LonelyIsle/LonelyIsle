@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>Hi, I'm Will</h2>
-  <p>I'm currently a student at the University of Houston and am always trying to explore new languages or tools to aid me in this journey through software.</p>
+  <p>I'm currently a senior at the University of Houston and am always trying to explore new languages or tools to aid me in this journey through software.</p>
 </div>
 
 ---
