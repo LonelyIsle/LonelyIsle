@@ -13,12 +13,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LonelyIsle?v=2 &show_icons=true&count_private=true&include_all_commits=true&theme=apprentice&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=LonelyIsle?v=2&show_icons=true&count_private=true&include_all_commits=true&theme=apprentice&hide_border=false"
     height="170"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=LonelyIsle?v=2 &layout=compact&langs_count=6&theme=apprentice&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=LonelyIsle?v=2&layout=compact&langs_count=6&theme=apprentice&hide_border=false"
     height="170"
     alt="Top Languages"
   />
