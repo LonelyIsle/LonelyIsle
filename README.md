@@ -5,8 +5,8 @@
 ---
 
 <div align="center">
-  <h2>Hi 👋, I'm LonelyIsle</h2>
-  <p>Computer Science student passionate about building, learning, and creating cool things.</p>
+  <h2>Hi, I'm Will</h2>
+  <p>I'm currently a student at the University of Houston and am always trying to explore new languages or tools to aid me in this journey through software.</p>
 </div>
 
 ---
@@ -54,5 +54,4 @@
 
 <div align="center">
   <p>🌱 Currently learning and building projects to sharpen my skills.</p>
-  <p>💬 Feel free to reach out!</p>
 </div>
