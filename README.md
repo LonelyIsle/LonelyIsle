@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.tenor.com/EpKbFiMnVAMAAAAM/souleater-stein-spin.gif" alt="Soul Eater Stein spinning" />
-</div>
-
 ---
 
 <div align="center">
