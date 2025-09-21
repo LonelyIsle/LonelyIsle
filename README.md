@@ -47,7 +47,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <p>🌱 Currently learning and building projects to sharpen my skills.</p>
-</div>
